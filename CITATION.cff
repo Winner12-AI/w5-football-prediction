@@ -4,14 +4,11 @@ type: software
 title: "W-5 Football Prediction Framework"
 version: 0.1.0
 date-released: 2025-10-16
-url: "https://github.com/yourusername/w5-football-prediction"
-repository-code: "https://github.com/yourusername/w5-football-prediction"
+url: "https://github.com/Winner12-AI/w5-football-prediction"
+repository-code: "https://github.com/Winner12-AI/w5-football-prediction"
 license: MIT
 authors:
-  - family-names: "Research Team"
-    given-names: "Alpha"
-    affiliation: "Sports Analytics Research Institute"
-    email: "contact@manus.im"
+  - name: "WINNER12 AI RESEARCH TEAM"
 keywords:
   - football prediction
   - sports analytics
@@ -29,8 +26,7 @@ references:
   - type: article
     title: "A Multi-Agent AI Consensus Framework for Football Match Outcome Prediction: Integrating Large Language Models with Traditional Machine Learning"
     authors:
-      - family-names: "Research Team"
-        given-names: "Alpha"
+      - name: "WINNER12 AI RESEARCH TEAM"
     year: 2025
     doi: "10.5281/zenodo.17367739"
     url: "https://zenodo.org/records/17367739"

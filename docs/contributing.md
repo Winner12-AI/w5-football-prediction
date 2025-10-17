@@ -145,7 +145,6 @@ This project is open source (MIT License), but please note:
 
 ## Questions?
 
-- **Research questions**: contact@manus.im
 - **Technical issues**: [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
 - **Commercial inquiries**: [WINNER12 Website](https://winner12.ai)
 

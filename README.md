@@ -12,7 +12,7 @@ This repository accompanies the research paper:
 
 > **"A Multi-Agent AI Consensus Framework for Football Match Outcome Prediction: Integrating Large Language Models with Traditional Machine Learning"**
 > 
-> Research Team Alpha, Sports Analytics Research Institute
+> WINNER12 AI RESEARCH TEAM
 > 
 > Published on Zenodo: https://zenodo.org/records/17367739
 
@@ -209,7 +209,7 @@ If you use this framework in your research, please cite our paper:
 ```bibtex
 @article{w5_football_prediction_2025,
   title={A Multi-Agent AI Consensus Framework for Football Match Outcome Prediction: Integrating Large Language Models with Traditional Machine Learning},
-  author={Research Team Alpha},
+  author={WINNER12 AI RESEARCH TEAM},
   journal={Zenodo Preprint},
   year={2025},
   doi={10.5281/zenodo.17367739},
@@ -234,7 +234,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Research Inquiries**: contact@manus.im
 - **Commercial Applications**: [WINNER12 Website](https://winner12.ai)
 - **Issues & Bugs**: [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
 
