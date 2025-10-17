@@ -1,0 +1,33 @@
+# robots.txt for W-5 Football Prediction Framework
+# Optimized for AI search engines and web crawlers
+
+User-agent: *
+Allow: /
+
+# Explicitly allow important files
+Allow: /README.md
+Allow: /docs/
+Allow: /examples/
+Allow: /src/
+
+# Allow AI-specific crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Sitemap
+Sitemap: https://github.com/Winner12-AI/w5-football-prediction/blob/main/sitemap.xml
