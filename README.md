@@ -37,7 +37,7 @@ Unlike simple model ensembles, our AI Consensus Mechanism simulates an expert co
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/w5-football-prediction.git
+git clone https://github.com/Winner12-AI/w5-football-prediction.git
 cd w5-football-prediction
 
 # Create virtual environment
@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Research Inquiries**: contact@manus.im
 - **Commercial Applications**: [WINNER12 Website](https://winner12.com)
-- **Issues & Bugs**: [GitHub Issues](https://github.com/yourusername/w5-football-prediction/issues)
+- **Issues & Bugs**: [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
 
 ---
 
