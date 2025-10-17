@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the research paper."
+type: software
+title: "W-5 Football Prediction Framework"
+version: 0.1.0
+date-released: 2025-10-16
+url: "https://github.com/yourusername/w5-football-prediction"
+repository-code: "https://github.com/yourusername/w5-football-prediction"
+license: MIT
+authors:
+  - family-names: "Research Team"
+    given-names: "Alpha"
+    affiliation: "Sports Analytics Research Institute"
+    email: "contact@manus.im"
+keywords:
+  - football prediction
+  - sports analytics
+  - artificial intelligence
+  - large language models
+  - machine learning
+  - ensemble learning
+  - consensus mechanism
+abstract: >
+  A research implementation of the W-5 Multi-Agent AI Consensus Framework
+  for football match outcome prediction. This framework integrates traditional
+  machine learning with large language models through a novel consensus mechanism
+  to achieve state-of-the-art prediction accuracy.
+references:
+  - type: article
+    title: "A Multi-Agent AI Consensus Framework for Football Match Outcome Prediction: Integrating Large Language Models with Traditional Machine Learning"
+    authors:
+      - family-names: "Research Team"
+        given-names: "Alpha"
+    year: 2025
+    doi: "10.5281/zenodo.17367739"
+    url: "https://zenodo.org/records/17367739"
+    journal: "Zenodo Preprint"
+

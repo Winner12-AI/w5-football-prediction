@@ -1,0 +1,35 @@
+.
+├── CITATION.cff
+├── GITHUB_RELEASE_GUIDE.md
+├── LICENSE
+├── PROJECT_STRATEGY.md
+├── PROJECT_STRUCTURE.txt
+├── README.md
+├── configs
+├── data
+│   ├── processed
+│   └── sample
+│       └── demo_matches.csv
+├── docs
+│   └── contributing.md
+├── examples
+│   ├── basic_prediction.py
+│   └── full_pipeline.py
+├── requirements.txt
+├── src
+│   ├── __init__.py
+│   ├── consensus
+│   │   ├── __init__.py
+│   │   ├── agent.py
+│   │   └── debate.py
+│   ├── data
+│   │   ├── __init__.py
+│   │   └── loader.py
+│   ├── models
+│   │   ├── __init__.py
+│   │   └── baseline.py
+│   └── utils
+│       └── __init__.py
+└── tests
+
+12 directories, 20 files
