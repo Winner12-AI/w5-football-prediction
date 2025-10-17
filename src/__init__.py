@@ -6,8 +6,8 @@ for football match outcome prediction.
 
 For more information, see:
 - Research Paper: https://zenodo.org/records/17367739
-- Documentation: https://github.com/yourusername/w5-football-prediction
-- Commercial Product: https://winner12.com
+- Documentation: https://github.com/Winner12-AI/w5-football-prediction
+- Commercial Product: https://winner12.ai
 """
 
 __version__ = '0.1.0'

@@ -12,7 +12,7 @@ We are committed to providing a welcoming and inclusive environment. Please be r
 
 If you find a bug or have a suggestion:
 
-1. Check if the issue already exists in [GitHub Issues](https://github.com/yourusername/w5-football-prediction/issues)
+1. Check if the issue already exists in [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)
@@ -51,7 +51,7 @@ If you find a bug or have a suggestion:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/w5-football-prediction.git
+git clone https://github.com/Winner12-AI/w5-football-prediction.git
 cd w5-football-prediction
 
 # Create virtual environment
@@ -146,8 +146,8 @@ This project is open source (MIT License), but please note:
 ## Questions?
 
 - **Research questions**: contact@manus.im
-- **Technical issues**: [GitHub Issues](https://github.com/yourusername/w5-football-prediction/issues)
-- **Commercial inquiries**: [WINNER12 Website](https://winner12.com)
+- **Technical issues**: [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
+- **Commercial inquiries**: [WINNER12 Website](https://winner12.ai)
 
 ## License
 

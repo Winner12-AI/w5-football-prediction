@@ -219,14 +219,14 @@ If you use this framework in your research, please cite our paper:
 
 ## 🔗 Related Projects
 
-- **[WINNER12](https://winner12.com)** - Commercial football prediction platform inspired by this research
+- **[WINNER12](https://winner12.ai)** - Commercial football prediction platform inspired by this research
 - **[Zenodo Paper](https://zenodo.org/records/17367739)** - Full academic publication
 
 ## ⚠️ Disclaimer
 
 This is a **research project** for academic and educational purposes. The framework is provided "as-is" without warranties. It is not intended for commercial betting or gambling applications. 
 
-For production-grade predictions and commercial use, please visit [WINNER12](https://winner12.com).
+For production-grade predictions and commercial use, please visit [WINNER12](https://winner12.ai).
 
 ## 📜 License
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Research Inquiries**: contact@manus.im
-- **Commercial Applications**: [WINNER12 Website](https://winner12.com)
+- **Commercial Applications**: [WINNER12 Website](https://winner12.ai)
 - **Issues & Bugs**: [GitHub Issues](https://github.com/Winner12-AI/w5-football-prediction/issues)
 
 ---

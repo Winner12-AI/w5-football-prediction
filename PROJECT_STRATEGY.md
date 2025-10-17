@@ -121,5 +121,5 @@ We do NOT accept contributions that:
 
 ---
 
-**Note**: This is a research project. For commercial applications, please visit [WINNER12](https://winner12.com) or contact our team.
+**Note**: This is a research project. For commercial applications, please visit [WINNER12](https://winner12.ai) or contact our team.
 

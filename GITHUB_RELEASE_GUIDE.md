@@ -112,7 +112,7 @@ Achieves 85.9% accuracy on simulated dataset (485K matches), significantly outpe
 ## 🔗 Related
 
 - Research Paper: https://zenodo.org/records/17367739
-- Commercial Product: https://winner12.com
+- Commercial Product: https://winner12.ai
 
 ## ⚠️ Disclaimer
 

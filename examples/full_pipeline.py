@@ -182,7 +182,7 @@ def main():
         print("  ✗ AI consensus (API keys not configured)")
         print("  ✗ Meta-learning fusion (requires consensus)")
     print()
-    print("For production use with full accuracy, visit: https://winner12.com")
+    print("For production use with full accuracy, visit: https://winner12.ai")
     print()
     print("="*70)
 
